@@ -1,7 +1,5 @@
 # Analyzing the Impact of Date Formats on Temporal Reasoning in Language Models
 
-[![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
-
 A Bachelor's Thesis by **Hanna Kulik**  
 Submitted to the Department of Computational Linguistics  
 Ludwig-Maximilians-Universität München
