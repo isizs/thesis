@@ -20,9 +20,9 @@ The project is organized as follows:
 The project is organized into two main directories: code/ and data/. The code/ folder contains the primary Jupyter Notebook, New_Datasets.ipynb, which handles the entire workflow from data generation and model inference to the final evaluation. The data/ folder stores all data artifacts, including the generated dataset .jsonl files and the final .json files containing the performance metrics and predictions. The root directory contains the final compiled thesis (bsc-hanna-kulik-11954006.pdf), the requirements.txt file for setting up the environment, and this README.
 
 ## Experiment setup
-Hardware: A machine with an NVIDIA CUDA-enabled GPU is required for the model inference stage. A modern GPU with at least 16 GB of VRAM is recommended due to the model's size and use of bfloat16.
-Software: Python 3.10 or later.
-Hugging Face Account: A Hugging Face account with approved access to the Llama 3 models is needed. An access token with read permissions is required for authentication.
+- Hardware: A machine with an NVIDIA CUDA-enabled GPU is required for the model inference stage. A modern GPU with at least 16 GB of VRAM is recommended due to the model's size and use of bfloat16.
+- Software: Python 3.10 or later.
+- Hugging Face Account: A Hugging Face account with approved access to the Llama 3 models is needed. An access token with read permissions is required for authentication.
 # Setup Instructions
 
 Install all required packages:
