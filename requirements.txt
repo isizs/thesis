@@ -1,0 +1,12 @@
+# Core ML/NLP libraries
+torch
+transformers
+huggingface_hub
+
+# Dataset handling
+datasets==2.16.0
+hf_xet
+
+# Utility libraries
+numpy
+inflect
