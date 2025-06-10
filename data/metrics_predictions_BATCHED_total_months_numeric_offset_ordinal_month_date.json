@@ -1,0 +1,7 @@
+{
+  "dataset": "predictions_BATCHED_total_months_numeric_offset_ordinal_month_date.jsonl",
+  "num_examples": 4000,
+  "exact_match": 0.32875,
+  "mae_year": 23.850209863588667,
+  "trend_accuracy": 0.9152675760755509
+}

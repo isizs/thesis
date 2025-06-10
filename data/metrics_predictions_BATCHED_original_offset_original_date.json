@@ -1,0 +1,7 @@
+{
+  "dataset": "predictions_BATCHED_original_offset_original_date.jsonl",
+  "num_examples": 4000,
+  "exact_match": 0.3155,
+  "mae_year": 23.868249412992434,
+  "trend_accuracy": 0.9089486042264545
+}

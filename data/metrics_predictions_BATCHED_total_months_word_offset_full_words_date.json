@@ -1,0 +1,7 @@
+{
+  "dataset": "predictions_BATCHED_total_months_word_offset_full_words_date.jsonl",
+  "num_examples": 4000,
+  "exact_match": 0.32975,
+  "mae_year": 18.67887249736565,
+  "trend_accuracy": 0.9093782929399368
+}
